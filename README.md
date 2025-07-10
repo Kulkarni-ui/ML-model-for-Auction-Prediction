@@ -9,8 +9,8 @@ To explore hidden patterns in data by segmenting it into meaningful clusters, en
 
 ## Dataset
 
-- Cleaned and preprocessed dataset suitable for clustering
-- Feature scaling and transformation applied where needed
+- Cleaned and preprocessed dataset suitable for clustering.
+- Feature scaling and transformation applied where needed.
 
 ## Technologies Used
 
